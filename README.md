@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=lucasdpau&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt" alt="Maximilian's Github Commit Stats"/>
-<img align="center" height="150px" src="https://github-readme-stats-seven-blue-35.vercel.app/api/top-langs?username=lucasdpau&langs_count=11&exclude_repo=nand2tetris-notes,first-contributions,CS50Coursework" alt="Lucas Github Language Stats"/>
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=lucasdpau&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt" alt="Lucas Github Commit Stats"/>
+<img align="center" height="150px" src="https://github-readme-stats-seven-blue-35.vercel.app/api/top-langs?username=lucasdpau&langs_count=11&exclude_repo=nand2tetris-notes,first-contributions,CS50Coursework&theme=cobalt" alt="Lucas Github Language Stats"/>
 
 - 📫 How to reach me: lucasdpau@gmail.com
 - ⚡ Fun fact: I used to sell medicine for a living
